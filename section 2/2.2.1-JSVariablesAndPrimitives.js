@@ -28,3 +28,5 @@ let master = false;
 console.log("Hello, my name is " + name + ", and I am learning " + language + ". I have been practicing for only " +  weeks + " weeks, so my status as a master is: " + master + ".");
 
 
+
+
